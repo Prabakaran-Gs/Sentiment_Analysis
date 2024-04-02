@@ -55,10 +55,10 @@ Navigate to the project directory and run the following command:
 
 ```bash
 streamlit run app.py
+```
 
 The application will start running locally, and you can access it through your web browser.
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
